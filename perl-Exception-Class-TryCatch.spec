@@ -6,7 +6,7 @@
 %define		pdir	Exception
 %define		pnam	Class-TryCatch
 Summary:	Exception::Class::TryCatch - syntactic try/catch sugar for use with Exception::Class
-Summary(pl):	Exception::Class::TryCatch - sk≥adniowe try/catch do uøywania z Exception::Class
+Summary(pl.UTF-8):   Exception::Class::TryCatch - sk≈Çadniowe try/catch do u≈ºywania z Exception::Class
 Name:		perl-Exception-Class-TryCatch
 Version:	1.10
 Release:	1
@@ -25,8 +25,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Exception::Class::TryCatch - syntactic try/catch sugar for use with
 Exception::Class.
 
-%description -l pl
-Exception::Class::TryCatch - sk≥adniowe try/catch do uøywania z
+%description -l pl.UTF-8
+Exception::Class::TryCatch - sk≈Çadniowe try/catch do u≈ºywania z
 Exception::Class.
 
 %prep
